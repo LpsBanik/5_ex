@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "OxP-dU-Gwn"; */
+"OxP-dU-Gwn.text" = "Welcome";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "PUw-ZZ-KIR"; */
+"PUw-ZZ-KIR.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "Secure section"; ObjectID = "Yyx-kb-RwF"; */
+"Yyx-kb-RwF.text" = "Secure section";
+
+/* Class = "UITextField"; placeholder = "Enter your name"; ObjectID = "akE-Pa-fvU"; */
+"akE-Pa-fvU.placeholder" = "Enter your name";
+
+/* Class = "UITextField"; placeholder = "Password please"; ObjectID = "bAe-WE-HeU"; */
+"bAe-WE-HeU.placeholder" = "Password please";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "d5B-Sm-mhf"; */
+"d5B-Sm-mhf.placeholder" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "Enter your nickname"; ObjectID = "geg-g5-ENj"; */
+"geg-g5-ENj.placeholder" = "Enter your nickname";
+
+/* Class = "UITextField"; placeholder = "Re-enter password"; ObjectID = "uTm-zA-gmB"; */
+"uTm-zA-gmB.placeholder" = "Re-enter password";
