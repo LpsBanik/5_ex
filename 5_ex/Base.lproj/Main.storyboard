@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="bXT-oQ-SDF">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="bXT-oQ-SDF">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -138,27 +138,27 @@
                                             <constraint firstItem="geg-g5-ENj" firstAttribute="top" secondItem="akE-Pa-fvU" secondAttribute="bottom" constant="20" id="0jT-61-59B"/>
                                             <constraint firstItem="akE-Pa-fvU" firstAttribute="top" secondItem="OxP-dU-Gwn" secondAttribute="bottom" constant="8" id="5zX-qP-75X"/>
                                             <constraint firstItem="d5B-Sm-mhf" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="7MO-8t-p8B"/>
-                                            <constraint firstAttribute="trailing" secondItem="OxP-dU-Gwn" secondAttribute="trailing" constant="100" id="7t7-qH-Nq5"/>
+                                            <constraint firstAttribute="trailing" secondItem="OxP-dU-Gwn" secondAttribute="trailing" priority="999" constant="100" id="7t7-qH-Nq5"/>
                                             <constraint firstItem="PUw-ZZ-KIR" firstAttribute="top" secondItem="geg-g5-ENj" secondAttribute="bottom" constant="20" id="Apf-hi-Scz"/>
-                                            <constraint firstAttribute="trailing" secondItem="bAe-WE-HeU" secondAttribute="trailing" constant="40" id="Bwv-dI-3aE"/>
+                                            <constraint firstAttribute="trailing" secondItem="bAe-WE-HeU" secondAttribute="trailing" priority="999" constant="40" id="Bwv-dI-3aE"/>
                                             <constraint firstItem="bAe-WE-HeU" firstAttribute="top" secondItem="Yyx-kb-RwF" secondAttribute="bottom" constant="8" id="CKj-i1-Eec"/>
-                                            <constraint firstAttribute="trailing" secondItem="d5B-Sm-mhf" secondAttribute="trailing" constant="40" id="EyD-5Z-iGv"/>
+                                            <constraint firstAttribute="trailing" secondItem="d5B-Sm-mhf" secondAttribute="trailing" priority="999" constant="40" id="EyD-5Z-iGv"/>
                                             <constraint firstItem="akE-Pa-fvU" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="FE9-xe-H65"/>
                                             <constraint firstItem="d5B-Sm-mhf" firstAttribute="top" secondItem="PUw-ZZ-KIR" secondAttribute="bottom" constant="20" id="FGt-WI-yPl"/>
                                             <constraint firstAttribute="bottom" secondItem="uTm-zA-gmB" secondAttribute="bottom" constant="86.5" id="Pjb-zn-IjD"/>
                                             <constraint firstItem="Yyx-kb-RwF" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="60" id="Qsp-dw-r1d"/>
-                                            <constraint firstAttribute="trailing" secondItem="PUw-ZZ-KIR" secondAttribute="trailing" constant="40" id="WEe-oJ-D72"/>
+                                            <constraint firstAttribute="trailing" secondItem="PUw-ZZ-KIR" secondAttribute="trailing" priority="999" constant="40" id="WEe-oJ-D72"/>
                                             <constraint firstItem="OxP-dU-Gwn" firstAttribute="top" secondItem="D1G-Jv-RI1" secondAttribute="top" constant="60" id="WRA-RF-fCt"/>
                                             <constraint firstItem="PUw-ZZ-KIR" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="a5F-2r-8hr"/>
-                                            <constraint firstAttribute="trailing" secondItem="uTm-zA-gmB" secondAttribute="trailing" constant="40" id="aAi-HS-dgg"/>
+                                            <constraint firstAttribute="trailing" secondItem="uTm-zA-gmB" secondAttribute="trailing" priority="999" constant="40" id="aAi-HS-dgg"/>
                                             <constraint firstItem="bAe-WE-HeU" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="dKa-Ia-buC"/>
                                             <constraint firstItem="Yyx-kb-RwF" firstAttribute="top" secondItem="d5B-Sm-mhf" secondAttribute="bottom" constant="60" id="dcA-b2-2kq"/>
-                                            <constraint firstAttribute="trailing" secondItem="akE-Pa-fvU" secondAttribute="trailing" constant="40" id="g0B-lo-9Pc"/>
+                                            <constraint firstAttribute="trailing" secondItem="akE-Pa-fvU" secondAttribute="trailing" priority="999" constant="40" id="g0B-lo-9Pc"/>
                                             <constraint firstItem="geg-g5-ENj" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="kaD-bH-7sI"/>
                                             <constraint firstItem="uTm-zA-gmB" firstAttribute="top" secondItem="bAe-WE-HeU" secondAttribute="bottom" constant="20" id="lXH-vp-X4r"/>
-                                            <constraint firstAttribute="trailing" secondItem="geg-g5-ENj" secondAttribute="trailing" constant="40" id="lcn-tk-rs6"/>
+                                            <constraint firstAttribute="trailing" secondItem="geg-g5-ENj" secondAttribute="trailing" priority="999" constant="40" id="lcn-tk-rs6"/>
                                             <constraint firstItem="OxP-dU-Gwn" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="100" id="qMU-bh-wX3"/>
-                                            <constraint firstAttribute="trailing" secondItem="Yyx-kb-RwF" secondAttribute="trailing" constant="60" id="qRR-fZ-SdR"/>
+                                            <constraint firstAttribute="trailing" secondItem="Yyx-kb-RwF" secondAttribute="trailing" priority="999" constant="60" id="qRR-fZ-SdR"/>
                                             <constraint firstItem="uTm-zA-gmB" firstAttribute="leading" secondItem="D1G-Jv-RI1" secondAttribute="leading" constant="40" id="zM4-Mk-cqc"/>
                                         </constraints>
                                     </view>
